@@ -4,7 +4,7 @@
 This repository contains a photo gallery application and two JavaScript challenges. Contributions are welcomed!
 
 ## Photo Gallery Application
-To implement an interactive photo gallery, I used the provided Figma designs as my starting point. Starting with an HTML boilerplate, I included a section tag in the body. Using Flexbox, I displayed the elements as columns to meet the required design. No CSS frameworks or JavaScript were utilized.
+To implement an interactive photo gallery, I used the provided Figma designs as my starting point. Starting with an HTML boilerplate, I included a section tag in the body. Using Flexbox, I displayed the elements as columns to meet the required design. No CSS frameworks or JavaScript frameworks were utilized.
 
 ### How to Run the Application
 1. **Online**: Visit [this website](https://strong-pony-4bb58d.netlify.app/).
